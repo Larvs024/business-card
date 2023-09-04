@@ -1,0 +1,27 @@
+/** Guide for CSS **/
+
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.card {
+    width: 400px;
+    margin: 100px auto;
+    background: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 7px solid lightgray;
+
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+    /*border: 1px solid rgb(151, 151, 242);*/
+}
